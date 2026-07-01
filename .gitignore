@@ -1,3 +1,22 @@
+node_modules/
+dist/
+.env
+coverage/
+*.log
+
+.vscode/
+.idea/
+
+.DS_Store
+
+postgres-data/
+redis-data/
+
+*.sqlite
+
+.env.local
+
+
 # Logs
 logs
 *.log
