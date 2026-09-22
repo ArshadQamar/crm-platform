@@ -1,0 +1,44 @@
+Frontend (Next.js)
+        │
+        ▼
+API Gateway
+        │
+
+────────────────────────────
+Platform Services
+────────────────────────────
+
+Identity Service (NodeJS)
+Notification Service (NodeJS)
+File Service (NodeJS)
+
+Audit Service (FastAPI)
+Reporting Service (FastAPI)
+
+────────────────────────────
+CRM Services
+────────────────────────────
+
+Lead Service (NodeJS)
+Contact Service (NodeJS)
+Account Service (NodeJS)
+Opportunity Service (NodeJS)
+
+────────────────────────────
+Infrastructure
+────────────────────────────
+
+PostgreSQL
+Redis
+RabbitMQ
+S3
+
+Prometheus
+Grafana
+Loki
+Jaeger
+
+Terraform
+GitHub Actions
+k3s
+AWS EC2
